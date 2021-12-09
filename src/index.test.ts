@@ -1,4 +1,4 @@
-import { hexToRgb, rgbToHex } from './index';
+import { hexToRgb, rgbToHex } from '.';
 
 describe('converts colors', () => {
   const initialHex = '#30a14e';
