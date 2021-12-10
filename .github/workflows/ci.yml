@@ -30,6 +30,9 @@ jobs:
       - name: Install Deps
         run: yarn install
 
+      - name: Run Dry Build
+        run: yarn compile:noemit
+
       - name: Run Lint
         run: yarn lint
 
@@ -59,9 +62,6 @@ jobs:
 
       - name: Build
         run: yarn build
-
-      - name: Bundle
-        run: yarn bundle
 
       - name: Release
         env:
