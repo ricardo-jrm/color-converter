@@ -1,21 +1,21 @@
 {
-  "name": "@ricardo-jrm/color-converter",
+  "name": "@ricardojrmcom/color-converter",
   "description": "Convert colors: HEX -> RGB / RGB -> HEX",
-  "version": "0.0.3-development",
+  "version": "0.0.4-development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricardo-jrm/color-converter.git"
+    "url": "https://github.com/ricardojrmcom/color-converter.git"
   },
   "author": {
     "name": "Ricardo Mota",
-    "url": "https://github.com/ricardo-jrm"
+    "url": "https://github.com/ricardojrmcom"
   },
-  "homepage": "https://github.com/ricardo-jrm/color-converter#readme",
+  "homepage": "https://github.com/ricardojrmcom/color-converter#readme",
   "bugs": {
-    "url": "https://github.com/ricardo-jrm/color-converter/issues"
+    "url": "https://github.com/ricardojrmcom/color-converter/issues"
   },
   "license": "MIT",
   "keywords": [

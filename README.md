@@ -1,17 +1,17 @@
 <div align="center">
 
-# 🌙 `@ricardo-jrm/color-converter`
+# 🌙 `@ricardojrmcom/color-converter`
 
 <b>Convert colors: HEX -> RGB / RGB -> HEX</b>
 
-![build](https://img.shields.io/github/workflow/status/ricardo-jrm/color-converter/Continuous%20Integration?style=for-the-badge)
-![license](https://img.shields.io/github/license/ricardo-jrm/color-converter?style=for-the-badge)
+![build](https://img.shields.io/github/workflow/status/ricardojrmcom/color-converter/Continuous%20Integration?style=for-the-badge)
+![license](https://img.shields.io/github/license/ricardojrmcom/color-converter?style=for-the-badge)
 
 ![author](<https://img.shields.io/badge/Author-Ricardo%20%3Cl1b3r__--%3E%20Mota%20(%40ricardo--jrm)-orange?style=for-the-badge>)
 
-![lang](https://img.shields.io/github/languages/top/ricardo-jrm/color-converter?style=for-the-badge)
-![version](https://img.shields.io/npm/v/@ricardo-jrm/color-converter?style=for-the-badge)
-![size](https://img.shields.io/bundlephobia/min/@ricardo-jrm/color-converter?style=for-the-badge)
+![lang](https://img.shields.io/github/languages/top/ricardojrmcom/color-converter?style=for-the-badge)
+![version](https://img.shields.io/npm/v/@ricardojrmcom/color-converter?style=for-the-badge)
+![size](https://img.shields.io/bundlephobia/min/@ricardojrmcom/color-converter?style=for-the-badge)
 
 </div>
 
@@ -24,9 +24,9 @@
 ### <b>Install</b>
 
 ```ts
-npm install @ricardo-jrm/color-converter
+npm install @ricardojrmcom/color-converter
 
-yarn add @ricardo-jrm/color-converter
+yarn add @ricardojrmcom/color-converter
 ```
 
 <br />
@@ -34,7 +34,7 @@ yarn add @ricardo-jrm/color-converter
 ### <b>Usage</b>
 
 ```ts
-import { hexToRgb, rgbToHex } from '@ricardo-jrm/color-converter'
+import { hexToRgb, rgbToHex } from '@ricardojrmcom/color-converter'
 
 // Converts a color HEX string to RGB object
 hexToRgb('#30a14e');
@@ -57,8 +57,8 @@ rgbToHex(48, 161, 78);
 
 ### <b>License</b>
 
-[MIT](https://github.com/ricardo-jrm/color-converter/blob/main/LICENSE) © Ricardo <l1b3r\_-> Mota ([@ricardo-jrm](https://github.com/ricardo-jrm))
+[MIT](https://github.com/ricardojrmcom/color-converter/blob/main/LICENSE) © Ricardo <l1b3r\_-> Mota ([@ricardojrmcom](https://github.com/ricardojrmcom))
 
-Bootstrapped with 🟪[@ricardo-jrm/nova](https://github.com/ricardo-jrm/nova)
+Bootstrapped with 🟪[@ricardojrmcom/nova](https://github.com/ricardojrmcom/nova)
 
 <br />
